@@ -1,0 +1,40 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('cabanas', function (Blueprint $table) {
+            $table->id();
+
+            $table->string('nombre');
+            $table->text('descripcion')->nullable();
+
+            $table->unsignedInteger('capacidad');
+            $table->decimal('precio_noche', 12, 2);
+
+            $table->enum('estado', [
+                'disponible',
+                'ocupada',
+                'mantenimiento'
+            ])->default('disponible');
+
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('cabanas');
+    }
+};
