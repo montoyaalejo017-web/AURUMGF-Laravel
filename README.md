@@ -1,4 +1,5 @@
 # AURUMGF - Sistema de Gestión para Glamping
+![SAFES TECH](./DOCS/PORTADA.png)
 
 Sistema web desarrollado para la gestión administrativa de un negocio de glamping, permitiendo administrar reservas, clientes y cabañas desde un panel administrativo.
 
