@@ -1,7 +1,7 @@
 # AURUMGF - Sistema de Gestión para Glamping
 ![AURUMGF-Laravel](./DOCS/1.png)
 ![AURUMGF-Laravel](./DOCS/2.png)
-![AURUMGF-Laravel](./DOCS/2.png)
+![AURUMGF-Laravel](./DOCS/3.png)
 
 
 
