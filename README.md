@@ -1,5 +1,9 @@
 # AURUMGF - Sistema de Gestión para Glamping
 ![AURUMGF-Laravel](./DOCS/1.png)
+![AURUMGF-Laravel](./DOCS/2.png)
+![AURUMGF-Laravel](./DOCS/2.png)
+
+
 
 Sistema web desarrollado para la gestión administrativa de un negocio de glamping, permitiendo administrar reservas, clientes y cabañas desde un panel administrativo.
 
