@@ -113,11 +113,11 @@ AURUMGF-Laravel/
 ├── package.json
 └── vite.config.js
 ```
-##🎯 Objetivo
+## 🎯 Objetivo
 Desarrollar un sistema web que permita gestionar de manera organizada las principales operaciones administrativas de un negocio de glamping, proporcionando herramientas para la administración de reservas, clientes y cabañas.
 Además, el proyecto busca ofrecer una experiencia web moderna para los visitantes mediante un sitio público responsive.
 
-##🔄 Evolución del proyecto
+## 🔄 Evolución del proyecto
 AURUMGF comenzó como un proyecto desarrollado utilizando PHP y arquitectura MVC.
 Posteriormente, el proyecto evolucionó hacia Laravel, incorporando un framework moderno, autenticación, Blade, Tailwind CSS, Vite y una estructura más organizada para facilitar su mantenimiento y escalabilidad.
 AURUMGF 1.0
@@ -127,7 +127,7 @@ AURUMGF 2.0
 Laravel + Blade + Tailwind CSS + Vite
 Segunda versión del proyecto, desarrollada utilizando Laravel como framework principal e incorporando nuevas funcionalidades y una interfaz renovada.
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 *Alejandro Montoya*
 Desarrollador de Software Junior | Backend
 Con conocimientos en desarrollo web, bases de datos, desarrollo backend y tecnologías frontend.
